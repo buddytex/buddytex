@@ -1,116 +1,173 @@
 # 👋 Hey, I'm Naveen (Buddy)
 
-### Robotics & Automation Engineer  
-**Electrical Head – Team Equinox (ABAJA by SAEINDIA)**  
-AI & Computer Vision Developer • ROS/ROS2 • Embedded Systems • RJ @ GitWave  
+### Robotics & Embedded Systems Engineer
+**Electrical & Electronics Head — Team Equinox | aBAJA SAEINDIA**  
+Robotics • ROS2 • Embedded Systems • Computer Vision • PCB & CAN • R&D
 
 ---
 
 ## 🚀 About Me
-I'm a Robotics & Automation Engineer passionate about building real-world intelligent systems that blend **AI**, **Computer Vision**, **ROS/ROS2**, and **Embedded Electronics**.  
 
-I currently serve as the **Electrical Head** of **Team Equinox**, working on an autonomous vehicle prototype for **ABAJA (SAEINDIA)** — contributing to wiring harness architecture, CAN communication, PCB design, LV power systems, and ROS2 integration.
+I'm a Robotics & Automation Engineer focused on building **real-world robotic and autonomous systems** — from low-level electronics and embedded control to perception and higher-level robotics software.
 
-I enjoy solving complex engineering problems, building robots from the ground up, and communicating tech through storytelling as an **RJ @ GitWave**.
+As the **Electrical & Electronics Head of Team Equinox**, I worked on the electrical architecture of an autonomous Baja vehicle, including **LV power distribution, wiring harnesses, CAN communication, safety systems, sensor/actuator interfaces, and custom PCBs**.
+
+My work sits at the intersection of **robotics hardware and software**. I've worked with **ESP32, Raspberry Pi, Jetson platforms, ROS/ROS2, LiDAR, computer vision, CAN, and embedded control**, while also taking responsibility for system integration and team coordination.
+
+I'm currently looking for opportunities in **robotics engineering, R&D, embedded robotics, autonomous systems, and robotics hardware/software integration**.
 
 ---
 
 ## 🏆 Highlights
-- ⚡ **Electrical Head — Team Equinox (ABAJA, SAEINDIA)**  
-  Designed LV harnesses, CAN bus architecture, fusing/E-Stop systems, and KiCad PCBs for an autonomous vehicle prototype.
 
-- 🎯 **Top 25 out of 300+ teams — Intel AI Hackathon**  
-  Built a Smart CCTV system with weapon detection, mask detection, emotion analysis, and Telegram alerts using OpenCV + Intel oneAPI.
+### ⚡ Electrical & Electronics Head — Team Equinox
+**aBAJA SAEINDIA Autonomous Vehicle**
+- Led the E&E team responsible for the vehicle's low-voltage electrical system
+- Designed and documented **wiring harness architecture and power distribution**
+- Worked on **CAN bus architecture, ECU communication, and signal routing**
+- Designed custom **KiCad PCBs** and handled component selection, assembly, and debugging
+- Worked on **DBW, steering, braking, sensors, actuators, safety circuits, fusing, and E-stop systems**
+- Team Equinox achieved **AIR 7 in aBAJA SAEINDIA 2025** and **AIR 11 in 2026**
 
-- 🏥 **Internship — Muthoot Hospitals (Versius Surgical Robot)**  
-  Observed robotic-assisted workflows and applied insights to the IoT-enabled Hospital Service Robot project.
+🔗 Low-Level Control System: https://github.com/TeamEquniox/aBAJA---Low-Level-Control-System
 
-- 🛰 **Autonomous & Swarm Robotics Work**  
-  Worked on autonomous prototypes, swarm communication (TCP/HTTP → ROS-based control), and various embedded systems.
+---
 
-- 🎙 **Lead RJ @ GitWave | Vice President – Anchoring Club**  
-  Hosting, public speaking, event management, and communication leadership.
+### 🚆 RAILguard AI — Autonomous Railway Robotics
+A distributed autonomous railway inspection and safety platform developed around a physical mobile-robot prototype.
+
+- Smartphone-based **camera + LiDAR + IMU** perception
+- **ONNX-based computer vision** pipeline
+- ESP32 low-level motor and telemetry interface
+- Raspberry Pi-based multi-agent coordination
+- **Path planning, railway simulation, collision-prevention logic, and digital-twin visualization**
+- Communication across **Android ↔ ESP32 ↔ Raspberry Pi**
+
+🔗 Repository: https://github.com/buddytex/Rail-Agent
+
+---
+
+### 🎯 Intel AI Hackathon — Top 25 / 300+ Teams
+Built a real-time **Smart CCTV Surveillance** system using:
+- OpenCV
+- Python
+- Intel oneAPI
+- Computer vision / ML pipelines
+- Telegram Bot API for alerts
+
+---
+
+### 🏥 Surgical Robotics Internship — Muthoot Hospitals
+Gained exposure to **robot-assisted surgical workflows and the Versius surgical robot**, which informed later work on a hospital service robot.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚗 **Autonomous Vehicle — Electrical & Low-Level Systems (ABAJA SAEINDIA)**
-- LV wiring harness design & documentation  
-- CAN network creation + DBC mapping  
-- PCB design (KiCad) + power distribution  
-- ROS2 I/O integration and signal routing  
-- Part of Team Equinox — All India Rank 7  
-🔗 https://github.com/TeamEquniox/aBAJA---Low-Level-Control-System
+### 🚗 Autonomous Baja — Electrical & Low-Level Control
+**Focus:** Embedded Electronics • CAN • PCB • Wiring • DBW • Safety
+
+A full vehicle electrical system developed for autonomous Baja competition.
+
+**Work included:**
+- LV electrical architecture
+- Wiring harness design
+- CAN communication and ECU networking
+- PCB design in KiCad
+- Power distribution and protection
+- Throttle-by-Wire / Brake-by-Wire / Steering-by-Wire interfaces
+- Sensor and actuator integration
+- E-stop, watchdog, fuse, and safety logic
+- ROS2 ↔ low-level hardware integration
 
 ---
 
-### 🔐 **Smart CCTV Surveillance — Intel AI Hackathon (Top 25/300)**
-Real-time detection of:
-- Weapons  
-- Masks  
-- Hostile cues / suspicious body language  
+### 🚆 RAILguard AI
+**Focus:** Autonomous Robotics • Computer Vision • ROS Concepts • Distributed Systems
 
-Tech Used:  
-**OpenCV**, **Intel oneAPI (oneVPL, oneDNN)**, **Python**, **Telegram Bot API**  
+A robotics platform combining mobile-robot hardware with AI perception and a distributed railway simulation environment.
+
+**Tech:** Python • Android/Kotlin • ESP32 • Raspberry Pi • ONNX • LiDAR • IMU • HTTP/Wi-Fi • Matplotlib
 
 ---
 
-### 🏥 **Hospital Service Robot (Major Project)**
-IoT-enabled service robot for in-ward assistance & HRI.  
-Inspired by internship experience with the **Versius Surgical Robot**.  
-Tech: **ROS Concepts**, **IoT**, **Sensor Integration**
+### 🤖 Swarm Robotics — Master–Slave Coordination
+Explored multi-robot coordination using:
+- TCP / HTTP communication
+- Distributed control
+- ESP32-based robot platforms
+- ROS-based extensions for swarm coordination
 
 ---
 
-### 🤖 **Swarm Robot — Master–Slave Control**
-- Two-robot coordination over TCP/HTTP  
-- Distributed control  
-- ROS-based swarm extension in progress
+### 🏥 Hospital Service Robot
+Major project focused on an **IoT-enabled hospital service robot** for in-ward assistance and human-robot interaction.
+
+**Focus:** Robotics • IoT • Sensor Integration • ROS Concepts
 
 ---
 
-### ⚙️ Other Projects
-- VANIS Robot (Hack for Nothing Hackathon)  
-- Segregation Robot (Arduino-based automation)  
-- 3-DOF Bionic Arm  
-- Pipeline Crack Detection Bot  
-- Automated Vertical Parking Simulation  
+### ⚙️ Other Work
+- **VANIS Robot** — Hack for Nothing Hackathon
+- **Segregation Robot** — Arduino-based automation
+- **3-DOF Bionic Arm**
+- **Pipeline Crack Detection Robot**
+- **Automated Vertical Parking Simulation**
+- Self-balancing and mobile robot prototypes
 
 ---
 
 ## 🧠 Technical Skills
 
-### 🤖 Robotics & AI
-ROS2 • Gazebo • OpenCV • Intel oneAPI • CV/ML Basics • Autoware (exposure)
+### 🤖 Robotics & Autonomous Systems
+ROS2 • Gazebo • Mobile Robotics • Robot Integration • Sensor Fusion Concepts • Autonomous Systems • Computer Vision • OpenCV • ONNX
 
-### 🧩 Embedded Systems
-Arduino • ESP32 • Raspberry Pi • Jetson Orin Nano (exposure)  
-Sensor/Actuator Integration • LV Power Systems • E-Stop & Fusing
+### 🔌 Embedded & Electronics
+ESP32 • Arduino • Raspberry Pi • Jetson Orin Nano • Embedded C/C++ • Sensor/Actuator Integration • CAN Bus • UART • I2C • GPIO • Watchdogs • E-Stop Systems
 
-### 🔌 Electronics
-KiCad PCB Design • CAN Bus • SMD Soldering • Wiring Harnesses
+### ⚡ Electrical Systems
+LV Power Architecture • Wiring Harness Design • Power Distribution • Fusing & Protection • DBW Interfaces • PCB Design • KiCad • SMD Assembly • Hardware Debugging
 
-### 💻 Software & Tools
-Python • C/C++ • Bash • Docker • Git • Linux  
-SolidWorks • Fusion 360 • Photoshop (basic)
+### 💻 Software & Engineering Tools
+Python • C/C++ • Bash • Linux • Git • GitHub • Docker • PlatformIO • KiCad • SolidWorks • Fusion 360
 
-### 🎙 Soft Skills
-Anchoring • Radio Jockeying • Public Speaking • Team Leadership • Event Hosting
+### 🎙 Leadership & Communication
+Team Leadership • Technical Presentations • Public Speaking • Event Management • Radio Jockeying • Anchoring
+
+---
+
+## 🔧 What I Like Building
+
+I am especially interested in projects where **hardware and software have to work together in the real world**:
+
+**Robotics Hardware → Embedded Control → Communication → Perception → ROS2 → System Integration**
+
+That's the part of robotics I enjoy most: taking separate components and turning them into a system that actually works.
 
 ---
 
 ## 🎙 Beyond Engineering
-Outside robotics, I'm active in media and communication:
-- Lead **RJ @ GitWave**
-- **Vice President @ Anchoring Club**
-- Hosted fests, launches, and major campus events
 
-I love blending creativity with engineering to make technology approachable and impactful.
+Engineering is only part of what I do.
+
+I'm also involved in:
+- **RJ @ GitWave**
+- **Vice President — Anchoring Club**
+- Hosting technical and cultural events
+- Public speaking and technical communication
+
+These experiences have helped me become comfortable not only with building systems, but also with **explaining, presenting, and leading them**.
 
 ---
 
 ## 📫 Connect With Me
+
 📧 **Email:** naveensg.rbb2226@saintgits.org  
 🔗 **LinkedIn:** https://www.linkedin.com/in/naveen-shaji-george-a55b55243/  
 💻 **GitHub:** https://github.com/buddytex
+
+---
+
+### 🚀 Currently Exploring
+
+**Robotics R&D • Autonomous Systems • ROS2 • Embedded Robotics • Computer Vision • Robotics Hardware • System Integration**
